@@ -2,7 +2,7 @@
   "friendly_name": "UbuntuDev",
   "image_src": "ubuntu.png",
   "description": "Ubuntu is a Linux distribution based on Debian.",
-  "name": "chromefinch/custom:development",
+  "name": "chromefinch/custom:latest",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
