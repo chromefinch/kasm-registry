@@ -1,8 +1,8 @@
 {
-  "friendly_name": "Ubuntu Jammy",
+  "friendly_name": "Ubuntu Jammy Custom",
   "image_src": "ubuntu.png",
   "description": "Ubuntu is a Linux distribution based on Debian.",
-  "name": "kasmweb/ubuntu-jammy-desktop:1.14.0",
+  "name": "chromefinch/custom:development",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
