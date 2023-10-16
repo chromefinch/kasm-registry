@@ -1,5 +1,5 @@
 {
-  "friendly_name": "Ubuntu Jammy Custom",
+  "friendly_name": "Ubuntu Jammy Custom V2",
   "image_src": "ubuntu.png",
   "description": "Ubuntu is a Linux distribution based on Debian.",
   "name": "chromefinch/custom:development",
