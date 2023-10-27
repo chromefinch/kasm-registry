@@ -1,0 +1,27 @@
+{
+  "friendly_name": "REMnux",
+  "image_src": "remnux.png",
+  "description": "REMnux is a Linux toolkit for reverse-engineering and analyzing malicious software.",
+  "name": "chromefinch/remnux:development",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://hub.docker.com/r/chromefinch/remnux",
+  "categories": [
+    "Desktop",
+    "Security",
+    "Development"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "notes": "A number of applications including VSCode and proxy browser within Burpsuite may require relaxed security in order to run correctly.\n\nAdding: {\"security_opt\":[\"seccomp=unconfined\"]} to the Docker Run Config Override (JSON) above may help these programs run with better compatibility.",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 12800
+}
