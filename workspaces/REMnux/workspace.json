@@ -1,5 +1,5 @@
 {
-  "friendly_name": "REMnux",
+  "friendly_name": "REMnuxAurora",
   "image_src": "remnux.png",
   "description": "REMnux is a Linux toolkit for reverse-engineering and analyzing malicious software.",
   "name": "chromefinch/remnux:development",
