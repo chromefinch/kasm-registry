@@ -3,7 +3,7 @@
 const nextConfig = {
   env: {
     name: 'Chromefinch',
-    description: 'The official store for Kasm supported workspaces.',
+    description: 'Just some stupid workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://chromefinch.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
