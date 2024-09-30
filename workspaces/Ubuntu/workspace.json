@@ -25,7 +25,7 @@
     "arm64"
   ],
   "compatibility": [
-    "1.15.x"
+    "1.16.x"
   ],
   "uncompressed_size_mb": 7660
 }
