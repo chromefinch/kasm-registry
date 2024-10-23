@@ -3,14 +3,14 @@
 const nextConfig = {
   env: {
     name: 'Chromefinch',
-    description: 'The official store for Kasm supported workspaces.',
+    description: 'idk man, i suck at this',
     icon: '/img/logo.svg',
-    listUrl: 'https://chromefinch.github.io/kasm-registry/',
+    listUrl: 'https://chromefinch.github.io/kasm_registry',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/kasm_registry/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
