@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Chromefinch',
     description: 'idk man, i suck at this',
     icon: '/img/logo.svg',
-    listUrl: 'https://chromefinch.github.io/kasm_registry',
+    listUrl: 'https://chromefinch.github.io/kasm_registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
